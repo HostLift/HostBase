@@ -71,9 +71,5 @@
 
 Visit [http://localhost:8000](http://localhost:8000) to access HostBase.
 
-## Contributing
-
-If you would like to contribute to HostBase, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
 ## License
 HostBase is open-source software licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
